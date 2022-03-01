@@ -1,2 +1,2 @@
 # infinite-scroll
-[Project] - Infinite Scroll
+[Project] - Infinity Scroll
